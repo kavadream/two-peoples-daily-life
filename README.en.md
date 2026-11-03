@@ -14,6 +14,12 @@ The author has accepted the content of this AI-assisted draft; it is not a final
 
 Gottman and Silver's relationship writing is an acknowledged inspiration, not a chapter template or a source of reproduced stories and exercises. No affiliation, endorsement, or authorization is claimed.
 
-KK's first language is Chinese. Suggestions from native English readers on the English overview and future English edition are welcome, especially for natural wording and accurate meaning. A full English translation is not included in this source package.
+KK's first language is Chinese. Suggestions from native English readers on the English translation preview are welcome, especially for natural wording and accurate meaning. A complete AI-assisted [English translation preview](translations/en/book.md) is now available; native-English review is pending.
 
 Please identify the chapter and passage when proposing corrections. Do not submit private or unauthorized third-party information. Public access does not grant an open-content licence or general permission for commercial republication, translation, adaptation, or redistribution. See the copyright notice for the applicable terms.
+
+## Read the English Translation Preview
+
+[Complete English manuscript](translations/en/book.md) · [Contents, sources, and correction guidance](translations/en/README.md) · [English copyright notice](translations/en/COPYRIGHT.md)
+
+This is a complete AI-assisted translation preview. No human target-language review has been performed. KK's first language is Chinese, and corrections from native English readers are welcome through this repository's Issues or pull requests. The Chinese content has been accepted by the author; the English translation remains a preview pending native-English review. Existing permissions remain in force.
