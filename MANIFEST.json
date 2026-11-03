@@ -1,0 +1,124 @@
+{
+  "book": "两个人的日常：亲密关系中的协商与修复",
+  "version": "draft-v0.1",
+  "generated": "2026-11-03",
+  "hash_algorithm": "sha256",
+  "scope": "Public source files; manifest excludes itself. No private QA or third-party full texts.",
+  "files": [
+    {
+      "path": "BOOK.md",
+      "bytes": 76324,
+      "sha256": "655fc34e1aaf50057c7a2467fa3fc685ad6a8008f417fe46c3a4b096e000f438"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 447,
+      "sha256": "bcbba11749c93f7d30ac18ef99797334e8057abf198efae267e17d26e6654619"
+    },
+    {
+      "path": "COPYRIGHT.md",
+      "bytes": 1014,
+      "sha256": "0dc86ebf3b7ef5101314800e8fa1d64cf40bcff9a804103a64e5adb6c4980d10"
+    },
+    {
+      "path": "README.en.md",
+      "bytes": 1769,
+      "sha256": "e6511ee16f09bd02cc4ed688ced295bc77f276abf69025746eb8dfdd6a6dac65"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1540,
+      "sha256": "c53e6b3ba391df1401145de932a09dc7e5d57edbca63f0296ef1098b6ac1c240"
+    },
+    {
+      "path": "book.json",
+      "bytes": 2656,
+      "sha256": "0dfd26f3c21ddc73c60fdc88c8c8edf0f6aa3616ddfc03986049471304515012"
+    },
+    {
+      "path": "manuscript/00-preface.md",
+      "bytes": 2753,
+      "sha256": "2c16999433cf3777c0fdf59a0e3287f83174ba2b9980136357e4c11ed219e154"
+    },
+    {
+      "path": "manuscript/01-shared-life.md",
+      "bytes": 4954,
+      "sha256": "fd7d6b8bc71c6e199bd5673cc9d37f294d463c611e21e5b15b1cdbde099ca567"
+    },
+    {
+      "path": "manuscript/02-speaking.md",
+      "bytes": 4715,
+      "sha256": "7311f23042925531249e7aff063a06ccbf8bda546590684952fc6d354ce6377c"
+    },
+    {
+      "path": "manuscript/03-listening.md",
+      "bytes": 4516,
+      "sha256": "af67054683e173ddb8f32013e7542593e54fbefb90da6512861eeaa3d876ed1f"
+    },
+    {
+      "path": "manuscript/04-pausing.md",
+      "bytes": 4519,
+      "sha256": "4f679c3bf22ef08e6b72a15f1446adf66ad25bb990900da1f3c2e21fd047c196"
+    },
+    {
+      "path": "manuscript/05-money.md",
+      "bytes": 4475,
+      "sha256": "694ff7e8f7754820d86b80b95868ff131cb94c8caed57aae7b3f1d8cbc3fcdd1"
+    },
+    {
+      "path": "manuscript/06-housework.md",
+      "bytes": 4417,
+      "sha256": "76b884b9369fa080658e2743da30ed6df89b9651d7329567afff20c1bedce07b"
+    },
+    {
+      "path": "manuscript/07-parents.md",
+      "bytes": 4592,
+      "sha256": "cea5c94f48d7edc133ef7d91ecf688e4f2c6c3605ff63553e1b3c2fac15bf015"
+    },
+    {
+      "path": "manuscript/08-children.md",
+      "bytes": 4585,
+      "sha256": "914c5a30352aab859e1a03792a4a3e1cda9796a64ccee7918bd6336447c9b292"
+    },
+    {
+      "path": "manuscript/09-space.md",
+      "bytes": 4230,
+      "sha256": "4fd13163831c9290571081b4f6c0076d25a17516b532a679d239d748e0074782"
+    },
+    {
+      "path": "manuscript/10-intimacy.md",
+      "bytes": 4310,
+      "sha256": "e2bbd267dcbc6f9a9ff0e38a167641fd214d866595ede8258f7ba4d4b806852c"
+    },
+    {
+      "path": "manuscript/11-differences.md",
+      "bytes": 4240,
+      "sha256": "390a62d03a4977105d725837bcf3ac0f202d57ddca6fac75a459807a29658c0c"
+    },
+    {
+      "path": "manuscript/12-repair.md",
+      "bytes": 4448,
+      "sha256": "0b6ffecb7883ff02acb396c6f6a1018e18d87f5f2d3df40d2ea3f66cc8662826"
+    },
+    {
+      "path": "manuscript/13-trust.md",
+      "bytes": 4606,
+      "sha256": "a5291c97249059d2b395441c653a6ddd19c32dadf569c0247dfbb575ee344f9e"
+    },
+    {
+      "path": "manuscript/14-maintenance.md",
+      "bytes": 4894,
+      "sha256": "f6f64294d41754c788ad30bea0c421e9ab3056625571def56c0862156cf141ae"
+    },
+    {
+      "path": "manuscript/15-appendix.md",
+      "bytes": 3520,
+      "sha256": "67bcf6282d0e1520a92074aba087b60ab0b03a67ada053ec76bad77048684d37"
+    },
+    {
+      "path": "sources/REFERENCES.md",
+      "bytes": 5336,
+      "sha256": "3a69dc987fa438649f1133bfb38f4d74a97d99a054b9e778c9e2207767b38304"
+    }
+  ]
+}

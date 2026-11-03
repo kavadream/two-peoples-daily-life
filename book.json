@@ -1,0 +1,91 @@
+{
+  "title": "两个人的日常：亲密关系中的协商与修复",
+  "english_title": "Everyday Life Together: Negotiation and Repair in Intimate Relationships",
+  "author": "KK",
+  "language": "zh-CN",
+  "version": "draft-v0.1",
+  "date": "2026-11-03",
+  "status": "original-ai-assisted-draft-not-author-approved",
+  "preface": "manuscript/00-preface.md",
+  "chapters": [
+    {
+      "id": "ch01",
+      "title": "第一章 先看看两个人实际过着什么日子",
+      "file": "manuscript/01-shared-life.md"
+    },
+    {
+      "id": "ch02",
+      "title": "第二章 把不满说成对方能够回应的事",
+      "file": "manuscript/02-speaking.md"
+    },
+    {
+      "id": "ch03",
+      "title": "第三章 听懂了再决定要不要同意",
+      "file": "manuscript/03-listening.md"
+    },
+    {
+      "id": "ch04",
+      "title": "第四章 暂停以后还要有回来的一刻",
+      "file": "manuscript/04-pausing.md"
+    },
+    {
+      "id": "ch05",
+      "title": "第五章 钱要有账也要有决定权",
+      "file": "manuscript/05-money.md"
+    },
+    {
+      "id": "ch06",
+      "title": "第六章 家务包括发现它还没做",
+      "file": "manuscript/06-housework.md"
+    },
+    {
+      "id": "ch07",
+      "title": "第七章 对父母有情分也要有边界",
+      "file": "manuscript/07-parents.md"
+    },
+    {
+      "id": "ch08",
+      "title": "第八章 有了孩子之后仍然需要协商",
+      "file": "manuscript/08-children.md"
+    },
+    {
+      "id": "ch09",
+      "title": "第九章 在一起也有自己的门",
+      "file": "manuscript/09-space.md"
+    },
+    {
+      "id": "ch10",
+      "title": "第十章 亲密需要愿意也需要条件",
+      "file": "manuscript/10-intimacy.md"
+    },
+    {
+      "id": "ch11",
+      "title": "第十一章 有些不同需要安排而不是消灭",
+      "file": "manuscript/11-differences.md"
+    },
+    {
+      "id": "ch12",
+      "title": "第十二章 道歉之后生活要有变化",
+      "file": "manuscript/12-repair.md"
+    },
+    {
+      "id": "ch13",
+      "title": "第十三章 信任需要证据也需要选择",
+      "file": "manuscript/13-trust.md"
+    },
+    {
+      "id": "ch14",
+      "title": "第十四章 给关系留一点日常维护的时间",
+      "file": "manuscript/14-maintenance.md"
+    }
+  ],
+  "appendices": [
+    "manuscript/15-appendix.md"
+  ],
+  "sources": "sources/REFERENCES.md",
+  "license": "COPYRIGHT.md",
+  "reading_file": "BOOK.md",
+  "chinese_characters_in_chapters": 18877,
+  "chinese_characters_unique_reading_content": 21625,
+  "translation_status": "English overview only; full translation not included"
+}
