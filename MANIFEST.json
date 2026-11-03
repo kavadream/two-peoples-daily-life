@@ -22,18 +22,18 @@
     },
     {
       "path": "README.en.md",
-      "bytes": 1769,
-      "sha256": "e6511ee16f09bd02cc4ed688ced295bc77f276abf69025746eb8dfdd6a6dac65"
+      "bytes": 1950,
+      "sha256": "b0c0a287b4e74e55e3b06b815c7d3465afa15c33d76182061f15423c25ade0c5"
     },
     {
       "path": "README.md",
-      "bytes": 1540,
-      "sha256": "c53e6b3ba391df1401145de932a09dc7e5d57edbca63f0296ef1098b6ac1c240"
+      "bytes": 1662,
+      "sha256": "8b9e5e7a5809214d35f0e17eee365de3032f2b9dfba5a35557df8ca059adbfa0"
     },
     {
       "path": "book.json",
-      "bytes": 2656,
-      "sha256": "0dfd26f3c21ddc73c60fdc88c8c8edf0f6aa3616ddfc03986049471304515012"
+      "bytes": 2663,
+      "sha256": "7e4f62274359da8a78e530fbc3f89ee5b94e40fe20d35a262b179488be3e382d"
     },
     {
       "path": "manuscript/00-preface.md",
